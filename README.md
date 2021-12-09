@@ -17,7 +17,7 @@ _These files contain an external representation of the R objects used for data g
 - ``an_simdata.R``: apply analysis strategies implemented in R to simulated datasets
 - ``an_simdata.do``: apply analysis strategies implemented in Stata to simulated datasets
 - ``select_aux_forwardFMI_simstudy.R``: implements the forward selection algorithm for the "Forward-FMI" strategy
-- ``calc_FMI.R``:
+- ``calc_FMI.R``: estimate the fraction of missing information in the mean of Y
 - ``pred_ttest.R``: used to create the predictor matrix for ``mice`` for the "tests" analysis strategy
 - ``cr_simresults.R``: calculate performance measures (bias, empirical SE, average model SE, coverage) and associated Monte Carlo SEs
 - ``prop_aux_selected.R``: calculate average number (and proportion) of selected auxiliary variables in each subgroup and in total across simulation runs
