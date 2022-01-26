@@ -12,7 +12,7 @@ Mainzer, R.M., Nguyen, C.D., Carlin, J.B., Moreno-Betancur, M., White, I.R., Lee
 _These files contain an external representation of the R objects used for data generation. They can be read into R using the "load" function._
 
 **Functions written to carry out simulation study:**
-- ``calc_gamma0.R``: calculate the proportion of missing values in Y for a grid of values of gamma_0
+- ``calc_gamma0.R``: calculate the proportion of missing values in Y for a grid of values of <img src="https://latex.codecogs.com/svg.image?\gamma_0&space;" title="\gamma_0 " />
 - ``cr_simdata.R``: create and store simulated datasets
 - ``an_simdata.R``: apply analysis strategies implemented in R to simulated datasets
 - ``an_simdata.do``: apply analysis strategies implemented in Stata to simulated datasets
