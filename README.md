@@ -80,6 +80,7 @@ R version 4.1.2 (2021-11-01)
 Platform: x86_64-pc-linux-gnu (64-bit)
 Running under: CentOS Linux 7 (Core)
 
+```
 Matrix products: default
 BLAS:   /hpc/software/installed/R/4.1.2/lib64/R/lib/libRblas.so
 LAPACK: /hpc/software/installed/R/4.1.2/lib64/R/lib/libRlapack.so
@@ -120,11 +121,13 @@ loaded via a namespace (and not attached):
 [49] DBI_1.1.2         curl_4.3.2        R6_2.5.1          knitr_1.37
 [53] fastmap_1.1.0     utf8_1.2.2        shape_1.4.6       stringi_1.7.6
 [57] Rcpp_1.0.7        vctrs_0.5.2       tidyselect_1.2.0  xfun_0.29
+```
 
 Stata: 
 
 . about
 
+```
 Stata/BE 17.0 for Unix (Linux 64-bit x86-64)
 Revision 10 May 2022
 Copyright 1985-2021 StataCorp LLC
@@ -135,3 +138,4 @@ Stata license: Unlimited-user network, expiring 23 Aug 2023
 Serial number: 401709398075
   Licensed to: MCRI User
                Murdoch Children's Research Institute
+```
