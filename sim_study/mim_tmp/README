@@ -1,1 +1,1 @@
-
+Additional folders to store temporary files produced by mim are required when running code in parallel to prevent Stata errors.
