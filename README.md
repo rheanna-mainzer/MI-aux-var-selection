@@ -10,13 +10,13 @@ Files and folder structure:
 This project comprises of two main folders: one for the simulation study (sim_study) and one for the case study (case_study). Below is a summary of the folder and file structure used with descriptions.
 
 - sim_study: 
-    - data: folder containing simulation datasets and stored data generation parameters
+    - data: folder for simulation datasets and stored data generation parameters
     - functions: folder containing all user-written functions required for the simulation study
-    - mim_tmp: contains folders to store temporary files produced by mim, required to prevent Stata errors when running code in parallel
-    - results: folder containing simulation study results
-        - analysis: folder containing analysis results 
-        - figures: folder containing figures for the manuscript
-        - tables: folder containing tables for the manuscript
+    - mim_tmp: folder for folders to store temporary files produced by mim, required to prevent Stata errors when running code in parallel
+    - results: folder for simulation study results
+        - analysis: folder for analysis results 
+        - figures: folder for figures
+        - tables: folder for tables
     - 00_DGP_params.R: R script to calculate and store data generation parameters
     - 01_gr_DGP_params.R: R script to produce supplementary figures 3 - 11
     - 02_cr_simdata.R: R script to create simulation datasets
@@ -27,9 +27,9 @@ This project comprises of two main folders: one for the simulation study (sim_st
     - 07_cr_simresults.R: R script to compile the results from the simulation study
     - 08_gr_tab_simresults.R: R script to produce figures 1 - 3, supplementary tables 2 - 4 and supplementary figures 13 - 18
 - case_study 
-    - analysis_data: data folder, currently empty.* 
+    - analysis_data: folder for analysis data* 
     - functions: folder containing user-written functions for the case study
-    - results:
+    - results: folder for storing case study results
     - 00_cr_SuppFig_cors.R
     - 01_cr_SuppFig_ORs.R
     - 02_cr_SuppTab_summary.R
