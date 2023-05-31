@@ -7,7 +7,7 @@ Mainzer, R.M., Nguyen, C.D., Carlin, J.B., Moreno-Betancur, M., White, I.R., Lee
 Files and folder structure:
 ---------------------------
 
-This project comprises of two main folders: one for the simulation study (sim_study) and one for the case study (case_study). Below is a summary of the folder and file structure with descriptions.
+This project comprises of two main folders: one for the simulation study (sim_study) and one for the case study (case_study). Below is a summary of the folder and file structure used with descriptions.
 
 - sim_study: 
     - data: folder containing simulation datasets and stored data generation parameters
